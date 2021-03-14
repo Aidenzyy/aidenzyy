@@ -1,0 +1,51 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #33333336;
+  background-image: url(img/bghero.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 50px;
+}
+
+.jumbotron img {
+  box-shadow: 1px 1px 9px black;
+}
+
+.jumbotron p {
+  text-shadow: 2px 2px 3px black;
+}
+
+.jumbotron span {
+  text-shadow: 1.5px 1.5px 2.5px black;
+  font-size: 16px;
+  color: beige;
+}
+
+section span {
+  font-size: 20px;
+  font-style: italic;
+}
+
+section {
+  padding-top: 70px;
+}
+
+#projects {
+  background-color: #33333336;
+}
+
+footer {
+  padding-left: 20px;
+  font-size: 12px;
+}
+
+.jumbotron h1 {
+  padding-top: 10px;
+  text-shadow: 1px 1px 6px black;
+  font-size: 45px;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-size: 24px;
+}
